@@ -28,3 +28,7 @@ Smart Blind Stick
 * **Send text to**(name of person saved in the blind person's phone)
 * **Send my location to**(name of person saved in the blind person's phone)
 * **Tell me my location**
+
+## Smart Blind Stick:
+
+![alttext](Stick.jpg)
