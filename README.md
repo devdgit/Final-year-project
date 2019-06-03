@@ -32,3 +32,5 @@ Smart Blind Stick
 ## Smart Blind Stick:
 
 ![alttext](Stick.jpg)
+
+* **So by using this stick the blind person can go anywhere without any hesitation and with full confidence!!**
